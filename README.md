@@ -55,7 +55,7 @@ project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/conversational-image-bot.git
+https://github.com/kaarthicvr/Conversational-Image-Recognition-Chatbot.git
 cd conversational-image-bot
 ```
 
